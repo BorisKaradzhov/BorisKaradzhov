@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BorisKaradzhov
 - 👀 I’m interested in Coffee Drinking
-- 🌱 I’m currently learning Influencer Marketing, CSS & JavaScript.
+- 🌱 I’m currently learning CSS & JavaScript.
 - 📫 How to reach me bkaradjov@abv.bg
 
 <!---
